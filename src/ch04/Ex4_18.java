@@ -28,6 +28,7 @@ public class Ex4_18 {
                     }
 
                     System.out.println("선택하신 메뉴는 " + menu + "번입니다.");
+
                     System.out.println("깃 브랜치 명령 실습중");
                 }
     } // main의 끝
